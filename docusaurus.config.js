@@ -74,8 +74,9 @@ plugins: ["@chatwoot/docusaurus-plugin"],
       baseURL: "https://app.chatwoot.com",  // optional
       enableInDevelopment: false,  // optional
     }
-  }
-};
+  }, 
+], 
+],
   presets: [
     [
       "@docusaurus/preset-classic",
