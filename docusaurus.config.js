@@ -22,6 +22,8 @@ plugins: ["@chatwoot/docusaurus-plugin"],
     }
   }
 };
+], 
+],
   themeConfig: {
     navbar: {
       // title: '雙龍體育',
