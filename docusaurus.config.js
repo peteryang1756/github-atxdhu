@@ -75,7 +75,6 @@ plugins: ["@chatwoot/docusaurus-plugin"],
       enableInDevelopment: false,  // optional
     }
   }, 
-], 
 ],
   presets: [
     [
