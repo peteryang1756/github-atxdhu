@@ -67,8 +67,6 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} 雙龍體育`,
     },
   },
-
-
   presets: [
     [
       "@docusaurus/preset-classic",
